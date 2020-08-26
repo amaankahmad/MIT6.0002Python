@@ -1,6 +1,6 @@
 ###########################
 # 6.0002 Problem Set 1b: Space Change
-# Name: Amaan Ahmad
+# Name: Amaan Karim Ahmad
 
 #================================
 # Part B: Golden Eggs
